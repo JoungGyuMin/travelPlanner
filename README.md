@@ -18,5 +18,3 @@
 
 ## 프로젝트 클론 📥
 git clone https://github.com/JoungGyuMin/travelPlanner.git
-
-## 프로젝트 디렉토리 구조 🗂️
